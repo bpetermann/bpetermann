@@ -1,4 +1,4 @@
-### Hi, I'm Ben 👋
+### Hi, I'm Ben
 
 I started my web development journey about one year ago with the help of [theodinproject](https://www.theodinproject.com)<br>
 and I'm currently studying web development at the [FH-Technikum Wien](https://www.technikum-wien.at/)<br>
@@ -10,4 +10,3 @@ and I'm currently studying web development at the [FH-Technikum Wien](https://ww
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
