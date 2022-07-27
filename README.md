@@ -1,4 +1,4 @@
-### Hi, I'm Ben
+### Hi, I'm Ben 👋
 
 I started my web development journey about one year ago with the help of [theodinproject](https://www.theodinproject.com)<br>
 and I'm currently studying web development at the [FH-Technikum Wien](https://www.technikum-wien.at/)<br>
