@@ -1,7 +1,7 @@
 ### Hi, I'm Ben 👋
 
 I started my web development journey about one year ago with the help of [theodinproject](https://www.theodinproject.com)<br>
-and I'm currently studying web development at the [FH-Technikum Wien](https://www.technikum-wien.at/)<br>
+and I'm currently studying web development at [FH-Technikum Wien](https://www.technikum-wien.at/)<br>
 
 #### What I'm focusing on
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
