@@ -9,7 +9,8 @@
 
 #### What I'm focusing on
 
-I'm currently really interested in learning [SolidJS](https://github.com/solidjs/solid)<br>
+* I'm currently really interested in learning [SolidJS](https://github.com/solidjs/solid)<br>
+* Tech I've worked with (professional and/or private): 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue)](https://skillicons.dev)
 
