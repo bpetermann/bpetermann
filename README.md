@@ -1,6 +1,10 @@
 ### Hi, I'm Ben 👋
 
-I work as a junior frontend developer, and I'm currently studying web development at [FH-Technikum Wien](https://www.technikum-wien.at/)<br>
+* Based in Vienna/Austria
+* I work as a junior frontend developer
+* Academic web developer degree @ [University of Applied Science Technikum Wien](https://www.technikum-wien.at/)
+
+
 
 
 #### What I'm focusing on
