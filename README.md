@@ -1,8 +1,8 @@
 ### Hi, I'm Ben 👋
 
-* Based in Vienna/Austria
-* I work as a junior frontend developer
-* Academic web developer degree @ [University of Applied Science Technikum Wien](https://www.technikum-wien.at/)
+* 🌏 Based in Vienna/Austria
+* :computer: I work as a junior frontend developer
+* :school: Academic web developer degree @ [University of Applied Science Technikum Wien](https://www.technikum-wien.at/)
 
 
 
