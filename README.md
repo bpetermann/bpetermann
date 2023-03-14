@@ -2,7 +2,7 @@
 
 * 🌏 Based in Vienna/Austria
 * :computer: I work as a junior frontend developer
-* :school: Academic web developer degree @ [University of Applied Science Technikum Wien](https://www.technikum-wien.at/)
+* :school: Academic web developer degree @ [University of Applied Science Technikum Wien](https://academy.technikum-wien.at/master-akademische-abschluesse/web-development/)
 
 
 
