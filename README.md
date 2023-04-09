@@ -1,4 +1,4 @@
-### Hi, I'm Ben 👋
+#### Hi, I'm Ben 👋
 
 * 🌏 Based in Vienna/Austria
 * :computer: I work as a junior frontend developer
@@ -13,5 +13,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue)](https://skillicons.dev)
 
-#
+#### Stats
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bPetermann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
