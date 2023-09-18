@@ -1,6 +1,7 @@
 ### Hi, I'm Ben 👋
 
 * 🌏 Based in Austria
+* 🌱 I am currently learning Python
 * :computer: I work as a junior frontend developer
 * ✉️  Contact me at [benjamin.petermann@gmx.at](mailto:benjamin.petermann@gmx.at)
 * :school: Academic web developer degree @ [Technikum Wien](https://academy.technikum-wien.at/master-akademische-abschluesse/web-development/)
