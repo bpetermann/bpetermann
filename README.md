@@ -9,7 +9,7 @@ Having entered this field relatively late, I am currently focusing on bridging t
 ### About me
 
 * 🌏 Based in Austria
-* :computer: I work as a web developer
+* :computer: I work as a junior web developer
 * ✉️  Contact me at [benjamin.petermann@gmx.at](mailto:benjamin.petermann@gmx.at)
 * :school: Academic web developer degree @ [Technikum Wien](https://academy.technikum-wien.at/master-akademische-abschluesse/web-development/)
 
