@@ -4,7 +4,7 @@ My journey into development started in mid-2021, mainly through resources such a
 
 I have worked with TypeScript, JavaScript, React, and Next.js, among others. 
 
-Having entered this field relatively late, I am currently focusing on bridging the gap and gaining a deeper understanding of the underlying principles of computer science while actively exploring the latest technologies in web development. I am particularly interested in compilers and interpreters.
+Having entered this field relatively late, I am currently focusing on bridging the gap and gaining a deeper understanding of the underlying principles of computer science while constantly striving to stay ahead with the latest technologies. I enjoy solving problems and developing innovative solutions.
 
 ### About me
 
