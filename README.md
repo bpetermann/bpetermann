@@ -1,10 +1,8 @@
 ### Hi, I'm Ben 👋
 
-My journey into development started in mid-2021, mainly through resources such as theodinproject.com. Four months later, I enrolled in the academic web development program at the University of Applied Sciences Technikum Wien, which I successfully completed in February 2023. 
+My journey into development started in mid-2021, mainly through resources such as theodinproject. Four months later, I enrolled in the academic web development program at the University of Applied Sciences Technikum Wien, which I successfully completed in February 2023. 
 
 I have worked with TypeScript, JavaScript, React, and Next.js, among others. 
-
-I am currently focusing on bridging the gap and gaining a deeper understanding of the underlying principles of computer science while constantly striving to stay ahead with the latest technologies. I enjoy solving problems and developing innovative solutions.
 
 ### About me
 
