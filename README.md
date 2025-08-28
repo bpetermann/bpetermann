@@ -12,7 +12,7 @@ I have worked with TypeScript, JavaScript, React, and Next.js, among others.
 * :school: Academic web developer degree @ [Technikum Wien](https://academy.technikum-wien.at/master-akademische-abschluesse/web-development/)
 
 ### Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bPetermann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=bpetermann&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bpetermann&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
                     
