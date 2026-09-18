@@ -10,9 +10,3 @@ I have worked with TypeScript, JavaScript, React, React Router, Nest.js and Next
 * :computer: I work as a web developer
 * ✉️  Contact me at [benjamin.petermann@gmx.at](mailto:benjamin.petermann@gmx.at)
 * :school: Academic web developer degree @ [Technikum Wien](https://academy.technikum-wien.at/master-akademische-abschluesse/web-development/)
-
-### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bpetermann&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bpetermann&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-                    
